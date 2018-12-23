@@ -3,6 +3,7 @@
 #em list
 /_deleted
 /_layouts
+yarn.lock
 
 # dependencies
 /node_modules
